@@ -1,4 +1,4 @@
-# Sistema de Confirmação de E-mail com Node.js, Express e Nodemailer
+# Sistema de Confirmação de E-mail
 
 Este projeto implementa **autenticação com verificação de e-mail**, utilizando **Node.js**, **Express**, **Nodemailer**, **JWT** e **bcrypt**.
 
